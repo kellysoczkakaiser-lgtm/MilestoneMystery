@@ -1,0 +1,9 @@
+@The Milestone Mystery
+{{embed Image}}
+Welcome to your clinical rotation at the Mid-State Developmental Research Center! As a student intern, you are stepping out of our textbook and into the observation lab to see Jean Piaget’s theories in action. In this simulation, you will navigate five distinct "observation rooms," each housing a participant at a different milestone cognitive development according to Piaget. Your objective is to interact with these individuals—ranging from curious infants to reflective adults—and conduct specific cognitive experiments, such as conservation tasks and variable testing, to map their current stage of cognitive development.
+
+Pay close attention to not just what they answer, but how they arrive at their conclusions. You will need to sharpen your clinical eye to distinguish between the symbolic play of a preschooler and the logical, concrete reasoning of an older child. As you move through the lab, keep your "Digital Clipboard" ready to document your findings. Successfully identifying each stage will prove your mastery and unlock the final completion code. Before you get started, enter your name in the textbox below. 
+
+<input type="text" data-attribute="player_name" placeholder="Enter your full name..." required minlength="2" maxlength="30">
+
+Time to get started! First, visit [[Observation Room A]]. 
